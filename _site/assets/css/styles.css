@@ -1,0 +1,53 @@
+body{
+    color: #5B7DC7;
+    font-size: 1.1rem;
+    line-height: 1.6;
+    overflow-x: hidden;
+}
+h1{
+    color:#5873AD;
+    font-family: 'Montserrat', sans-serif;
+}
+h2,h3,h4,h5{
+    color:#5B7DC7;
+    font-family: 'Montserrat', sans-serif;
+
+}
+p{
+    text-align: justify;
+    font-family: 'Merriweather', serif;
+    font-size: 0.9rem;
+}
+a{
+    text-decoration: none;
+    color:inherit;
+}
+hr{
+    color:#CDD0FF;
+}
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #7E80B2;
+}
+
+th{
+    border:1px solid #CDD0FF;
+    color: #7E80B2;
+    padding: 5px;
+}
+
+td{
+    border:1px solid #CDD0FF;
+    padding: 10px;
+}
+
+.feed{
+    margin:10vw;
+}
+
+#data{
+    display: flex;
+    justify-content: flex-end;
+    color:#5873AD;
+}
